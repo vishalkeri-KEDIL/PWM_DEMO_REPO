@@ -1,0 +1,4 @@
+../Core/Src/PT100_Convert.c:24:7:ADS1220_Calculate_VREF	16	static
+../Core/Src/PT100_Convert.c:40:7:step_size	16	static
+../Core/Src/PT100_Convert.c:51:7:ADS1220_ADC_To_Voltage	24	static
+../Core/Src/PT100_Convert.c:63:7:ADS1220_Voltage_To_Resistance	24	static
