@@ -18,7 +18,7 @@
 /* USER CODE END Header */
 /* Includes ------------------------------------------------------------------*/
 
-
+//example command 
 #include "main.h"
 #include"ads1220.h"
 #include"PT100_Convert.h"
